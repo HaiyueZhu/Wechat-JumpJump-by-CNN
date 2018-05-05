@@ -1,0 +1,6 @@
+model_checkpoint_path: "CNN_prid-195000"
+all_model_checkpoint_paths: "CNN_prid-175000"
+all_model_checkpoint_paths: "CNN_prid-180000"
+all_model_checkpoint_paths: "CNN_prid-185000"
+all_model_checkpoint_paths: "CNN_prid-190000"
+all_model_checkpoint_paths: "CNN_prid-195000"
